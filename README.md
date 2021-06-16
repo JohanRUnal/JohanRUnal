@@ -4,6 +4,7 @@
 
 
 __CORE QUALIFICATIONS__
+[my site!](https://www.linkedin.com/in/johan-rodriguez-80b687159/)
 
 
 
