@@ -6,7 +6,7 @@ I'm a mathematician with solid skills in topics like: Statistics, development of
 
 - 🔭 I’m currently working on Boost my career as a data scientist.
 - 🌱 I’m currently learning about Reinforcement Learning.
-- 👯 I’m looking to collaborate on projects in areas with a social perspective where data can help to improve the life of people.
+- 👯 I’m looking to collaborate on projects in areas with a social perspective where data can help to improve life of people.
 - 🤔 I’m looking for increase my 
 - 💬 Ask me about: machine learning, deep learning, time series, Regression models.
 - ⚡ Fun fact: Love numbers, Modelling, AI and play drums.
