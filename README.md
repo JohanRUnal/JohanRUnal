@@ -6,9 +6,7 @@
 
 __CORE QUALIFICATIONS__
 
-::: {#hello .greeting .message style="color: red;"}
-Hello **world**!
-:::
+
 
 
 Here are some ideas to get you started:
