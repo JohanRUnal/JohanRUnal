@@ -1,9 +1,10 @@
 ### Hi there I'm Johan Rodriguez 👋
 
-__MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
+## __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 
 
 __CORE QUALIFICATIONS__
+
 
 
 Here are some ideas to get you started:
