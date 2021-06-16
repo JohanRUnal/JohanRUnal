@@ -1,6 +1,6 @@
 ### Hi there I'm Johan Rodriguez 👋
 
-MATHEMATICIAN. lOVE NUMBERS,MODELS,AI AND NEW CHALLENGES!.
+__MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 
 Here are some ideas to get you started:
 
