@@ -3,6 +3,7 @@
 ##### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 I have skills in topics like: Statistics, development of machine learning and Deep learning models, data vizualization.
 
+# Languages and Tools.
 <img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-Pandas-blue"> | <img src="https://img.shields.io/badge/-Sklearn-yellow"> | <img src="https://img.shields.io/badge/-ETL-orange"> | <img src="https://img.shields.io/badge/-MySQL-lightgrey"> | <img src="https://img.shields.io/badge/-Terminal-orange">
 
 
