@@ -7,15 +7,7 @@
 __CORE QUALIFICATIONS__
 
 
-\usepackage{color}
-\usepackage{framed}
-\setlength{\fboxsep}{.8em}
 
-\newenvironment{blackbox}{
-  \definecolor{shadecolor}{rgb}{0, 0, 0}  % black
-  \color{white}
-  \begin{shaded}}
- {\end{shaded}}
 
 Here are some ideas to get you started:
 
