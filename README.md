@@ -2,7 +2,7 @@
 
 ##### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 
-[![Website](https://img.shields.io/website?label=SKILLS)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=SKILLS)]()
 
 
 
