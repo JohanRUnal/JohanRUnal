@@ -4,9 +4,6 @@
 
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Boost my career.
 - 🌱 I’m currently learning about Reinforcement Learning.
 - 👯 I’m looking to collaborate on ...
