@@ -14,7 +14,7 @@ I'm a mathematician with solid skills in topics like: Statistics, development of
 <img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-R-critical"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> | <img src="https://img.shields.io/badge/-Tableau-yellow"> | <img src="https://img.shields.io/badge/-MySQL-lightgrey"> | <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Terminal-orange">
 
 ## Relevant Libraries.
-<img src="https://img.shields.io/badge/-Sklearn-critical"> | <img src="https://img.shields.io/badge/-Keras-brightgreen"> | <img src="https://img.shields.io/badge/-NLTK-yellowgreen"> | <img src="https://img.shields.io/badge/-stats-important">
+<img src="https://img.shields.io/badge/-Pandas-blueviolet"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> | <img src="https://img.shields.io/badge/-Keras-brightgreen"> | <img src="https://img.shields.io/badge/-NLTK-yellowgreen"> | <img src="https://img.shields.io/badge/-stats-important">
 
 ## Connect with me.
 
