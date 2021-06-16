@@ -2,7 +2,7 @@
 
 ##### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 
-<img align ="left" alt= "Python" width="30px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HfvS-uML3qz5yF76LyQBGW9TQpOaB_du5uBhSms0vFtA6g0OhMBe3V0TLPq1NIzaXNI&usqp=CAU"/>
+<img align ="left" alt= "Python" width="30px" src= "https://www.wallpaperup.com/uploads/wallpapers/2016/03/01/903014/556052406b0bbdf0a390ff3727b04aa0-700.jpg"/>
 
 
 
