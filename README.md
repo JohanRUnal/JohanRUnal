@@ -1,7 +1,7 @@
 ### Hi there I'm Johan Rodriguez 👋
 
 ### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
-I have skills in topics like: Statistics, development of machine learning and Deep learning models, data vizualization.
+I'm a mathematician with solid skills in topics like: Statistics, development of machine learning and Deep learning models, data vizualization and some experiencie working in projects related with: IOT and retail.
 
 
 - 🔭 I’m currently working on Boost my career.
