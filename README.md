@@ -2,6 +2,10 @@
 
 __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 
+
+__CORE QUALIFICATIONS__
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
