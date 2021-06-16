@@ -6,14 +6,7 @@
 
 __CORE QUALIFICATIONS__
 
-> His words seemed to have struck some deep chord in his own nature. Had he spoken
-of himself, of himself as he was or wished to be? Stephen watched his face for some
-moments in silence. A cold sadness was there. He had spoken of himself, of his own
-loneliness which he feared.
->
-> —Of whom are you speaking? Stephen asked at length.
->
-> Cranly did not answer.
+
 
 
 Here are some ideas to get you started:
