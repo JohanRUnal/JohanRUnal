@@ -5,11 +5,6 @@
 
 
 
-__CORE QUALIFICATIONS__
-
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Boost my career.
