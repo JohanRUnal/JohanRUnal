@@ -3,7 +3,6 @@
 ##### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 
 [![Website](https://img.shields.io/website?label=Skills)]()
-[!https://img.shields.io/endpoint?url=<URL>&style<STYLE>]
 
 
 
