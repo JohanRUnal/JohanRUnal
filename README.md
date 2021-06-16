@@ -2,9 +2,12 @@
 
 #### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
 
 __CORE QUALIFICATIONS__
-[my site!](https://www.linkedin.com/in/johan-rodriguez-80b687159/)
+
+
 
 
 
