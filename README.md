@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [<img align ="left" alt ="Python" width="30px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HfvS-uML3qz5yF76LyQBGW9TQpOaB_du5uBhSms0vFtA6g0OhMBe3V0TLPq1NIzaXNI&usqp=CAU"/>]
 [<img align ="left" alt ="Python" width="30px" src= "https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/logo_r.svg"/>]
 [<img align ="left" alt ="Python" width="50px" src= "https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png?hl=es-419"/>]
-[<img align ="left" alt ="Python" width="70px" src= "http://blogs.encamina.com/por-una-nube-sostenible/wp-content/uploads/sites/19/2021/03/github.png"/>]
+[<img align ="left" alt ="Python" width="60px" src= "http://blogs.encamina.com/por-una-nube-sostenible/wp-content/uploads/sites/19/2021/03/github.png"/>]
