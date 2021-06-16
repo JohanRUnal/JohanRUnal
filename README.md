@@ -1,7 +1,7 @@
 ### Hi there I'm Johan Rodriguez 👋
 
 ##### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
-I have skills in topics like: Statistics, visualization and development of machine learning and Deep learning models.
+I have skills in topics like: Statistics, development of machine learning and Deep learning models, data vizualization.
 
 [![Website](https://img.shields.io/website?label=Skills)]()
 
