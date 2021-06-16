@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
+<img align ="left" alt= "Linkedin" width="30px" src= "https://img.flaticon.com/icons/png/512/61/61109.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/>
+
+
+
 
 
 
