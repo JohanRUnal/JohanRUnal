@@ -1,6 +1,6 @@
 ### Hi there I'm Johan Rodriguez 👋
 
-#### __MATHEMATICIAN. Enthusiastic and passionate for all about data and the new electricity-Artificial Intelligence!__
+#### __MATHEMATICIAN. Enthusiastic and passionate for all about data and Artificial Intelligence as the new electricity!__
 I'm a mathematician with solid skills in topics like: Statistics, development of machine learning and Deep learning models, data vizualization and some experiencie working in projects and companies related with: IOT and retail.
 
 
