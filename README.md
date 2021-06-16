@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 <img align ="left" alt= "Python" width="30px" src= "https://returngis.net/wp-content/uploads/2021/01/GitHub.png"/>
 <img align ="left" alt= "Python" width="30px" src= "https://w7.pngwing.com/pngs/981/872/png-transparent-computer-terminal-computer-icons-linux-console-terminal-emulator-linux-logo-desktop-wallpaper-linux-thumbnail.png"/>
 
+### Contact with me:
+<img align ="left" alt= "Python" width="30px" src= "https://img.flaticon.com/icons/png/512/61/61109.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/>[linkedin]
+
+
+
+
+[linkedin] = https://www.linkedin.com/in/johan-rodriguez-80b687159/
+
 
 
 
