@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-[<img align ="left" alt ="Python" width="22px" src= "https://nebul4ck.files.wordpress.com/2015/12/python-logo.png"/>]
+[<img align ="left" alt ="Python" width="22px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HfvS-uML3qz5yF76LyQBGW9TQpOaB_du5uBhSms0vFtA6g0OhMBe3V0TLPq1NIzaXNI&usqp=CAU"/>]
