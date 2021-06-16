@@ -4,14 +4,12 @@
 I'm a mathematician with solid skills in topics like: Statistics, development of machine learning and Deep learning models, data vizualization and some experiencie working in projects and companies related with: IOT and retail.
 
 
-- 🔭 I’m currently working on Boost my career.
+- 🔭 I’m currently working on Boost my career as a data scientist.
 - 🌱 I’m currently learning about Reinforcement Learning.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on projects in other areas.
+- 🤔 I’m looking for increase my 
+- 💬 Ask me about machine learning, deep learning, time series, Regression models.
+- ⚡ Fun fact: Love to learn languages.
 -->
 
 # Languages and Tools.
