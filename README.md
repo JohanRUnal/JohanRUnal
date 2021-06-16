@@ -2,7 +2,6 @@
 
 ##### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 
-<img align ="center" alt= "Python" width="1024px" heigth="0.1px" src= "https://www.wallpaperup.com/uploads/wallpapers/2016/03/01/903014/556052406b0bbdf0a390ff3727b04aa0-700.jpg"/>
 
 
 
