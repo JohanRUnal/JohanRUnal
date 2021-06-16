@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img align ="left" alt= "Python" width="30px" src= "https://w7.pngwing.com/pngs/981/872/png-transparent-computer-terminal-computer-icons-linux-console-terminal-emulator-linux-logo-desktop-wallpaper-linux-thumbnail.png"/>
 
 
+![Johan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanRUnal&hide=contribs,prs)
 
 
 
