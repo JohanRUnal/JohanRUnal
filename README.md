@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align ="left" alt= "Python" width="30px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HfvS-uML3qz5yF76LyQBGW9TQpOaB_du5uBhSms0vFtA6g0OhMBe3V0TLPq1NIzaXNI&usqp=CAU"/>
-<img align ="left" alt= "Python" width="30px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HfvS-uML3qz5yF76LyQBGW9TQpOaB_du5uBhSms0vFtA6g0OhMBe3V0TLPq1NIzaXNI&usqp=CAU"/>
-<img align ="left" alt= "Python" width="30px" src= "https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png?hl=es-419"/>
+<img align ="left" alt= "Python" width="30px" src= "https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/logo_r.svg"/>
+<img align ="left" alt= "Python" width="60px" src= "https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png?hl=es-419"/>
 <img align ="left" alt= "Python" width="30px" src= "https://media-exp1.licdn.com/dms/image/C560BAQGbNutqXFCq8g/company-logo_200_200/0/1591199049957?e=2159024400&v=beta&t=iB-iPCCeUCJJXxH95YsQjQqAIMILdiiZWS1Q7mSD2ew"/>
 <img align ="left" alt= "Python" width="30px" src= "https://returngis.net/wp-content/uploads/2021/01/GitHub.png"/>
 
