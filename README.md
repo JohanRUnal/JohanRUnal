@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 
 ### Conect with me:
 
-[Visit GitHub!](www.github.com)
+<img align ="left" alt= "Python" width="30px" src= "https://img.flaticon.com/icons/png/512/61/61109.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/>[linkedin]
+
+[linkedin]: https://www.linkedin.com/in/johan-rodriguez-80b687159/
 
 
 
