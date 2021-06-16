@@ -17,6 +17,10 @@ I'm a mathematician with solid skills in topics like: Statistics, development of
 # Relevant Libraries.
 <img src="https://img.shields.io/badge/-Sklearn-critical"> | <img src="https://img.shields.io/badge/-Keras-brightgreen"> | <img src="https://img.shields.io/badge/-NLTK-yellowgreen"> | <img src="https://img.shields.io/badge/-stats-important">
 
+# Connect with me.
+
+
+
 
 
 
