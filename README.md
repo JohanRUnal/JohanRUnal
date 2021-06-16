@@ -1,6 +1,6 @@
 ### Hi there I'm Johan Rodriguez 👋
 
-##### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
+### __MATHEMATICIAN. lOVE NUMBERS,MODELS,AI,PLAY DRUMS AND NEW CHALLENGES!.__
 I have skills in topics like: Statistics, development of machine learning and Deep learning models, data vizualization.
 
 # Languages and Tools.
