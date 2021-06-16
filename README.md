@@ -12,7 +12,7 @@ I'm a mathematician with solid skills in topics like: Statistics, development of
 -->
 
 # Languages and Tools.
-<img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-Pandas-blue"> | <img src="https://img.shields.io/badge/-Sklearn-yellow"> | <img src="https://img.shields.io/badge/-ETL-orange"> | <img src="https://img.shields.io/badge/-MySQL-lightgrey"> | <img src="https://img.shields.io/badge/-Terminal-orange">
+<img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-R-brightgreen"> | <img src="https://img.shields.io/badge/-Pandas-blue"> | <img src="https://img.shields.io/badge/-Sklearn-yellow"> | <img src="https://img.shields.io/badge/-ETL-orange"> | <img src="https://img.shields.io/badge/-MySQL-lightgrey"> | <img src="https://img.shields.io/badge/-Terminal-orange">
 
 
 
