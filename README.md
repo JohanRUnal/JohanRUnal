@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 [<img align ="left" alt ="Python" width="30px" src= "https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/logo_r.svg"/>]
 [<img align ="left" alt ="Python" width="50px" src= "https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png?hl=es-419"/>]
 [<img align ="left" alt ="Python" width="30px" src= "https://returngis.net/wp-content/uploads/2021/01/GitHub.png"/>]
+[<img align ="left" alt ="Python" width="30px" src= "https://w7.pngwing.com/pngs/981/872/png-transparent-computer-terminal-computer-icons-linux-console-terminal-emulator-linux-logo-desktop-wallpaper-linux-thumbnail.png"/>]
