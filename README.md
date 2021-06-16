@@ -9,7 +9,6 @@ I'm a mathematician with solid skills in topics like: Statistics, development of
 - 👯 I’m looking to collaborate on projects in areas with a social perspective where data can help to improve life of people.
 - 💬 Ask me about: machine learning, deep learning, time series, Regression models.
 - ⚡ Fun fact: Love numbers, Modelling, AI and play drums.
--->
 
 ## Languages and Tools.
 <img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-R-critical"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> | <img src="https://img.shields.io/badge/-Tableau-yellow"> | <img src="https://img.shields.io/badge/-MySQL-lightgrey"> | <img src="https://img.shields.io/badge/-Terminal-orange">
