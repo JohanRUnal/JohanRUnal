@@ -1,6 +1,6 @@
 ### Hi there I'm Johan Rodriguez 👋
 
-<img src="https://github.com/JohanRUnal/JohanRUnal/blob/main/WhatsApp%20Image%202021-06-17%20at%2011.09.08%20PM.jpeg" width="1000" height="200">
+<img src="https://github.com/JohanRUnal/JohanRUnal/blob/main/WhatsApp%20Image%202021-06-17%20at%2011.09.08%20PM.jpeg" width="1000" height="230">
 
 
 
