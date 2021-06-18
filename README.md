@@ -1,5 +1,7 @@
 ### Hi there I'm Johan Rodriguez 👋
 
+<img src="https://i.ytimg.com/vi/WaqlmeRfPFE/maxresdefault.jpg" width="1000" height="300">
+
 #### __MATHEMATICIAN. Enthusiastic and passionate for all about data and Artificial Intelligence(AI) as the new electricity!__
 I'm a mathematician with solid skills in topics like: Statistics, development of machine learning and Deep learning models, data vizualization and with some experiencie working in projects and companies related with: IOT and retail.
 
